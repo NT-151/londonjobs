@@ -1,0 +1,15 @@
+export const locations = [
+  "Oxford Street",
+  "White City",
+  "Stratford",
+  "Kings Road",
+  "Victoria",
+  "Chelsea",
+  "Kensington",
+  "Knightsbridge",
+  "Regent Street",
+  "Covent Garden",
+  "Camden",
+  "Greenwich",
+  "Wembley",
+];

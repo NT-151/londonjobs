@@ -1,0 +1,41 @@
+export const Jobs = [
+  {
+    Company: "McDonalds",
+    Role: "Barister",
+    Salary: "12.34",
+    Location: "WhiteChapel",
+    Posted: "2023-10-30T12:00:00",
+    Logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1200px-McDonald%27s_Golden_Arches.svg.png",
+  },
+  {
+    Company: "JD Sports",
+    Role: "Shop Floor",
+    Salary: "19.09",
+    Location: "Hounslow",
+    Posted: "2023-10-29T12:00:00",
+    Logo: "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/JD_Sports_logo.svg/2048px-JD_Sports_logo.svg.png",
+  },
+  {
+    Company: "KFC",
+    Role: "Kitchen",
+    Location: "Wandsworth",
+    Posted: "2023-10-28T12:00:00",
+    Salary: "10.11",
+    Logo: "https://1000logos.net/wp-content/uploads/2017/03/Kfc_logo.png",
+  },
+  {
+    Company: "Primark",
+    Role: "Sales Assistant",
+    Salary: "12.98",
+    Posted: "2023-10-27T12:00:00",
+    Location: "Kings Street",
+  },
+  {
+    Company: "Apple Store",
+    Role: "Sales",
+    Posted: "2023-10-2612:00:00",
+    Salary: "18.12",
+    Location: "Westfield",
+    Logo: "https://www.edigitalagency.com.au/wp-content/uploads/apple-logo-png-black.png",
+  },
+];
